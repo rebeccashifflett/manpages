@@ -1,0 +1,25 @@
+body {
+  background-color: grey;
+  color: white;
+}
+
+nav {
+  font-style:oblique;
+  font-size: 30px;
+}
+
+form {
+  text-align:left;
+}
+
+div {
+  display: flex;
+  justify-content: flex-end;
+}
+
+h1 {
+  font-size: 30px;
+  font-style: oblique;
+  color: 93BEFF;
+  text-align: center;
+}
